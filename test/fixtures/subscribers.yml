@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+dic104:
+  product: tshirt
+  email: dic104@naver.com
+
+dic6854:
+  product: tshirt
+  email: dic6854@gmail.com
